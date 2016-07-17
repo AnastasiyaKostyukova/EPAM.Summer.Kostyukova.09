@@ -1,0 +1,8 @@
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\bin\Debug\Task3Logic.dll
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\bin\Debug\Task3Logic.pdb
+D:\Training EPAM Nastya\Tasks\Day9\ConsoleApplication1\obj\Debug\Task3ConsoleUI.csprojResolveAssemblyReference.cache
