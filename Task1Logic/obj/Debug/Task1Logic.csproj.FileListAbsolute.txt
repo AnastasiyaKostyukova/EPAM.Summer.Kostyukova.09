@@ -1,0 +1,5 @@
+D:\Training EPAM Nastya\Tasks\Day9\Day9\Task1Logic\bin\Debug\Task1Logic.dll
+D:\Training EPAM Nastya\Tasks\Day9\Day9\Task1Logic\bin\Debug\Task1Logic.pdb
+D:\Training EPAM Nastya\Tasks\Day9\Day9\Task1Logic\obj\Debug\Task1Logic.csprojResolveAssemblyReference.cache
+D:\Training EPAM Nastya\Tasks\Day9\Day9\Task1Logic\obj\Debug\Task1Logic.dll
+D:\Training EPAM Nastya\Tasks\Day9\Day9\Task1Logic\obj\Debug\Task1Logic.pdb
